@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'pavanchaparlaAssignment2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3BFE163289C440AEA31B4141FBD02392 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F75B8B458E64592B595BF0746118B77 }}
