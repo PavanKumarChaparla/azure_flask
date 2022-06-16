@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3c834acd-b867-457d-b78d-ed5ef00de162/microsoft.web/sites/subscriptions/3c834acd-b867-457d-b78d-ed5ef00de162/resourceGroups/WorkSpace/providers/Microsoft.Web/sites/pavanchaparlaAssignment2",
+    "appService.deploySubpath": "."
+}
